@@ -1,0 +1,7 @@
+C:\Users\47470093885\Desktop\C#\listaQuatro\listaQuatro\obj\Debug\listaQuatro.csproj.AssemblyReference.cache
+C:\Users\47470093885\Desktop\C#\listaQuatro\listaQuatro\obj\Debug\listaQuatro.csproj.CoreCompileInputs.cache
+C:\Users\47470093885\Desktop\C#\listaQuatro\listaQuatro\bin\Debug\listaQuatro.exe.config
+C:\Users\47470093885\Desktop\C#\listaQuatro\listaQuatro\bin\Debug\listaQuatro.exe
+C:\Users\47470093885\Desktop\C#\listaQuatro\listaQuatro\bin\Debug\listaQuatro.pdb
+C:\Users\47470093885\Desktop\C#\listaQuatro\listaQuatro\obj\Debug\listaQuatro.exe
+C:\Users\47470093885\Desktop\C#\listaQuatro\listaQuatro\obj\Debug\listaQuatro.pdb
